@@ -4,7 +4,7 @@
 Minsk, Belarus | Open to Remote/Relocation
 
 * **Email:** [valeryia.ruf@gmail.com](mailto:valeryia.ruf@gmail.com)  
-* **Phone:** +375 (29) 182-66-00  
+* **Phone:** +375 (29) 182-66-11  
 * **Discord:** valruffe  
 * **Portfolio:** [GitHub](https://github.com/V-Ruffe)
 
