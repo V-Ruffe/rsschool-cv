@@ -190,3 +190,44 @@ a {
 a:hover {
     color: white;
 }
+
+@media (max-width: 768px) {
+    .container {
+        grid-template-columns: 1fr;
+        grid-template-areas: 
+            "header"
+            "sidebar"
+            "main";
+    }
+
+    .header {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .header-image {
+        margin-top: 20px;
+    }
+
+    .sidebar {
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width: 480px) {
+    .header-content h1 {
+        font-size: 2rem;
+    }
+
+    .header-content h2 {
+        font-size: 1.2rem;
+    }
+
+    h3 {
+        font-size: 1.3rem;
+    }
+
+    .sidebar, .main-content {
+        padding: 20px;
+    }
+}
