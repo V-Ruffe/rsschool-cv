@@ -61,11 +61,11 @@ body {
     font-style: italic;
 }
 
-.avatar-placeholder {
+.avatar {
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    background-color: var(--secondary-color);
+    object-fit: cover;
     border: 3px solid var(--accent-color);
 }
 
