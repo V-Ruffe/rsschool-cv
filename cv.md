@@ -21,6 +21,31 @@ Detail-oriented **Front-End Developer** transitioning from business analysis wit
 
 ---
 
+## Technical Skills
+
+| **Front-End**     | **Tools & Methods** | **Design & Analysis**           |
+| ----------------- | ------------------- | ------------------------------- |
+| HTML5/CSS3        | Git/GitHub          | Figma/Axure                     |
+| JavaScript        | Webpack             | Adobe Illustrator/After Effects |
+| Responsive Design | Agile/Scrum         | BPMN/UML                        |
+|                   | JIRA/Confluence     | User Story Mapping              | 
+
+---
+
+## Code example
+
+*Create a function with two arguments that will return an array of the first n multiples of x.Assume both the given number and the number of times to count will be positive numbers greater than 0.Return the results as an array or list.*
+
+**Solution**
+```javascript
+function countBy(x, n) {
+  let z = [];
+  for (let i = 1; i <= n; i++) {
+    z.push(x * i);
+  }
+  return z;
+}
+```
 
 ## Professional Experience
 
